@@ -5,7 +5,7 @@
 	<title>Decompression World</title>
 	<style type="text/css">
 	* {
-        font-family: Î¢ÈíÑÅºÚ;
+        font-family: å¾®è½¯é›…é»‘;
         font-size: 20px;
         background-color: lightskyblue;
     }
@@ -52,38 +52,38 @@
 
 	<script type="text/javascript">
     function back(){
-      window.open("Ê×Ò³.html","_blank","location=no,status=no,scrollbars=no",true);
+      window.open("é¦–é¡µ.html","_blank","location=no,status=no,scrollbars=no",true);
       // width=700,height=500,
       window.close();
     }
 		function enter1(){
-      window.open("ĞÄÀí²âÊÔ.html","_blank","location=no,status=no,scrollbars=no",true);
+      window.open("å¿ƒç†æµ‹è¯•.html","_blank","location=no,status=no,scrollbars=no",true);
       // width=700,height=500,
       window.close();
     }
     function enter2(){
-      alert("±§Ç¸£¬¸Ã¹¦ÄÜÔİÎ´¿ª·Å£¡");
+      alert("æŠ±æ­‰ï¼Œè¯¥åŠŸèƒ½æš‚æœªå¼€æ”¾ï¼");
     }
 	</script>
 </head>
 <body>
 	<h1 font-family:Arial Black>Decompression World</h1>
-  <button id="btnback" onclick="back();"  padding=20px><·µ»Ø</button>
+  <button id="btnback" onclick="back();"  padding=20px><è¿”å›</button>
 	<div>
-		<h4>»¶Ó­À´µ½¼õÑ¹ÊÀ½ç</h4>
-		<p> ¡ñ Ñ¹Á¦ÎŞ´¦²»ÔÚ£¬ÈËÀàÒÑ¾­½øÈëÑ¹Á¦¼²²¡Ê±´ú</p>
-		<p> ¡ñ ÈËÃÇ×ÜÓĞË¯²»ºÃ¡¢ĞÄÇé²»ºÃµÄÊ±ºò£¬ÔÚ³ĞÊÜÑ¹Á¦Ê±£¬ÎÒÃÇÍùÍù»áÊ§Ãß¡¢·ßÅ­¡¢¿Ö¾å»òÒÖÓô</p>
-        <p> ¡ñ ÕâÊÇÒ»¸ö¼õÑ¹ÊÀ½ç£¬ÈÃÄãÊÍ·ÅÑ¹Á¦£¬Äã¿ÉÒÔÔÚÕâÀïËæÒâĞûĞ¹£¬Ò²¿ÉÒÔ°ÑÏëËµµÄ»°ÒÔÄäÃûµÄĞÎÊ½Ëµ³öÀ´</p>
+		<h4>æ¬¢è¿æ¥åˆ°å‡å‹ä¸–ç•Œ</h4>
+		<p> â— å‹åŠ›æ— å¤„ä¸åœ¨ï¼Œäººç±»å·²ç»è¿›å…¥å‹åŠ›ç–¾ç—…æ—¶ä»£</p>
+		<p> â— äººä»¬æ€»æœ‰ç¡ä¸å¥½ã€å¿ƒæƒ…ä¸å¥½çš„æ—¶å€™ï¼Œåœ¨æ‰¿å—å‹åŠ›æ—¶ï¼Œæˆ‘ä»¬å¾€å¾€ä¼šå¤±çœ ã€æ„¤æ€’ã€ææƒ§æˆ–æŠ‘éƒ</p>
+        <p> â— è¿™æ˜¯ä¸€ä¸ªå‡å‹ä¸–ç•Œï¼Œè®©ä½ é‡Šæ”¾å‹åŠ›ï¼Œä½ å¯ä»¥åœ¨è¿™é‡Œéšæ„å®£æ³„ï¼Œä¹Ÿå¯ä»¥æŠŠæƒ³è¯´çš„è¯ä»¥åŒ¿åçš„å½¢å¼è¯´å‡ºæ¥</p>
 	</div>
 	<div>
 		<!-- <img src="logo.png" alt="This is our logo!" height="300" width="300"> -->
 		<fieldset>
-			<legend>ÇëÑ¡ÔñÒ»¸öÏëÒª½øĞĞµÄÄ£¿é°É~</legend>
+			<legend>è¯·é€‰æ‹©ä¸€ä¸ªæƒ³è¦è¿›è¡Œçš„æ¨¡å—å§~</legend>
 			<div>
-			    <button onclick="enter1();">ĞÄÀí²âÊÔ</button>
+			    <button onclick="enter1();">å¿ƒç†æµ‹è¯•</button>
 		    </div>
 		    <div>
-			    <button onclick="enter2();">¿ªÊ¼¼õÑ¹</button>
+			    <button onclick="enter2();">å¼€å§‹å‡å‹</button>
 		    </div>
 		</fieldset>
 		
